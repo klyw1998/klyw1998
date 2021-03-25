@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Liangyawei Kuang(匡梁亚伟) @klyw1998
+- 👋 Hi, I’m Liangyawei Kuang (匡梁亚伟) @klyw1998
 - 👀 I’m interested in Robotics, Machine Learning, Computer Vision and Algorithms
 - 🌱 I’m currently learning Computer Science and related exciting topics
 - 💞️ I’m looking to collaborate on multi-agent deep learning and autonomouns driving
