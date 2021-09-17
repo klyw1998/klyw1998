@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liangyawei Kuang (匡梁亚伟) @klyw1998
-- 👀 I’m interested in Robotics (multi-robot), Machine Learning, Computer Vision and Algorithms
+- 👀 I’m interested in Pure Mathematics and Algorithms
 - 🌱 I’m highly addicted in Computer Science and related exciting topics
 - 💞️ I’m looking to collaborate on multi-agent systems, robotics, and machine learning.
 - 📫 You can reach me by sending e-mail to kriskongloveyou@yahoo.com
