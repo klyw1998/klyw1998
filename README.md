@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pure Mathematics and Algorithms
 - 🌱 I’m highly addicted in Computer Science and related exciting topics
 - 💞️ I’m looking to collaborate on multi-agent systems, reinforcement learning, game theory, robotics, vision, and machine learning.
-- 📫 You can reach me by sending e-mail to kriskongloveyou@yahoo.com
+- 📫 You can reach me by sending e-mail to kriskongloveyou@gmail.com
 
 <!---
 klyw1998/klyw1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
