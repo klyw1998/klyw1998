@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liangyawei Kuang (匡梁亚伟) @klyw1998
 - 👀 I’m interested in Pure Mathematics and Algorithms
-- 🌱 I’m highly addicted in Computer Science and related exciting topics
-- 💞️ I’m looking to collaborate on multi-agent systems, reinforcement learning, game theory, robotics, vision, and machine learning.
+- 🌱 I’m highly addicted in Artificial Intelligence and related exciting topics
+- 💞️ I’m looking to collaborate on reinforcement learning, decision-theoretic planning, and multi-agent systems (multiagent systems).
 - 📫 You can reach me by sending e-mail to kriskongloveyou@gmail.com
 
 <!---
